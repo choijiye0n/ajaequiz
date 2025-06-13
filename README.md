@@ -15,7 +15,7 @@
    1. 이 저장소를 클론하거나 zip으로 다운 받기
    2. 터미널(또는 CMD)에서 아래 명령어 실행:
       ```bash
-      python ajagag_quiz.py
+      python quiz.py
 
 # 입력과 출력
 입력: 정답을 키보드로 입력
